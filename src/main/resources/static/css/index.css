@@ -166,7 +166,7 @@ lista li::before {
         top: 0; /* Alineación en la parte superior */
         width: 30%; /* Ancho de la imagen */
         height: 30%; /* Altura de la imagen */
-        background-image: url("../img/muelita.png"); /* Ruta de la imagen */
+        background-image: url("img/muelita.png"); /* Ruta de la imagen */
         background-size: contain;
         background-repeat: no-repeat;
 }
